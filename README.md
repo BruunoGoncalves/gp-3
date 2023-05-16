@@ -22,8 +22,8 @@ Tecnologias utilizadas:
 
     JavaScript, Node.js, Express, Sequelize e MySQL. Além disso, implementamos uma funcionalidade para criptografar a senha cadastrada pelo psicólogo e, ao fazer login, um token é retornado para validar os dados. Utilizamos as bibliotecas Crypto e JWT.
 
-DOCUMENTAÇÃO
-
-Link: https://documenter.getpostman.com/view/27232490/2s93eePoiJ
 
 Autores (Grupo 2):
+
+Bruno Gonçalves
+Lais Assis
